@@ -1,4 +1,4 @@
 # silvia_the_voiceassistant
-its my personal project
-it your chatgpt with text to speech
-it's not done yet
+# its my personal project
+it use chatgpt with text to speech.
+it's not done yet.
